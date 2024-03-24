@@ -5,9 +5,3 @@ const historyList = document.getElementById("list");
 const addTransactionForm = document.getElementById("form");
 const newTransactionText = document.getElementById("text");
 const newTransactionAmount = document.getElementById("amount");
-
-// Add transaction
-function addTransaction(e) {
-  e.preventDefault();
-  // Add your code
-}
